@@ -15,7 +15,8 @@ Projects: Showcases my best work with detailed descriptions.
 Resume: Provides a downloadable or well-formatted summary of my experience and qualifications (resume).
 Contact: Offers easy ways for potential employers or collaborators to connect with you.
 
-Contact:
-Name: Prachi Kumari
-Email: prachikumari2804@gmail.com
-Linkedin: linkedin.com/in/prachi-kumari-6b100125a
+<br>
+Contact:<br>
+Name: Prachi Kumari<br>
+Email: prachikumari2804@gmail.com<br>
+Linkedin: linkedin.com/in/prachi-kumari-6b100125a<br>
