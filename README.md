@@ -17,6 +17,6 @@ Resume: Provides a downloadable or well-formatted summary of my experience and q
 Contact: Offers easy ways for potential employers or collaborators to connect with you.<br>
 <br>
 Contact:<br>
-Name: Prachi Kumari<br><br>
+Name: Prachi Kumari<br>
 Email: prachikumari2804@gmail.com<br>
 Linkedin: linkedin.com/in/prachi-kumari-6b100125a<br>
