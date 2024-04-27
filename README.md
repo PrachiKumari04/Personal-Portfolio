@@ -7,7 +7,8 @@ HTML: Defines the website's structure and content.<br>
 CSS: Creates the website's visual design (layout, colors, fonts).<br>
 JavaScript: Adds interactivity.<br>
 <br>
-Decription: This website includes the following sections.<br>
+
+This website includes the following sections.<br>
 Home: Introduces me and my work with a captivating first impression.<br>
 About Me: Shares my story, background, and what makes me unique.<br>
 Skills: Highlights my key strengths and expertise relevant to my field.<br>
